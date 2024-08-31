@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    background-color:rgb(50, 50, 50);
+}
+h1{
+    text-align: center;
+}
+
+.menu ul{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    overflow: hidden;
+}
+
+.menu a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    padding: 10px;
+    margin-inline-start: 100px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: rgb(20, 20, 20);
+}
+
+.menu li{
+    float: left;  
+    float: center;
+}
+
+.idpag h1{ 
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+
+.idpag h2{
+    background-color: rgb(30, 30, 30);
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.idpag h3{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.idpag h4{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.idpag p{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.idpag li{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.inputs{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.trab{
+    margin-inline: 200px;
+    top: -300px;
+}
+a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(20, 20, 20);
+    top: -15px;
+
+}
